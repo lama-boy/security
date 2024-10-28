@@ -20,7 +20,7 @@ public class UserEntity {
 
     private String user_id;
     private String password;
-    private String user_nmae;
+    private String user_name;
     private String interest;
     private String role;
     
